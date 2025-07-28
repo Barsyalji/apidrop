@@ -45,31 +45,31 @@
                 <div class="flex flex-wrap gap-5 md:gap-5 justify-center md:justify-start w-full">
                     <!-- Card 1 -->
                     <div
-                        class="bg-white bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
+                        class=" bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
                         <img src="/images/airdropalert-bybit-logo.avif" alt="Bybit Logo" class="h-8" />
                     </div>
 
                     <!-- Card 2 -->
                     <div
-                        class="bg-white bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
+                        class=" bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
                         <img src="/images/cex-logo-airdropalert-1.avif" alt="Kelp" class="h-8 mr-3" />
                     </div>
 
                     <!-- Card 3 -->
                     <div
-                        class="bg-white bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
+                        class=" bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
                         <img src="/images/kelp-dao-logo.avif" alt="SwissBorg" class="h-8 mr-3" />
                     </div>
 
                     <!-- Card 4 -->
                     <div
-                        class="bg-white bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
+                        class=" bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
                         <img src="/images/Nexo-white.avif" alt="NEXO" class="h-8 mr-3" />
                     </div>
 
                     <!-- Card 5 -->
                     <div
-                        class="bg-white bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
+                        class=" bg-opacity-5 hover:bg-[rgba(44,212,217,0.1)] transition-colors duration-300 border border-gray-700 rounded-lg px-8 py-6 flex items-center min-w-[180px] min-h-[80px]">
                         <img src="/images/swissborg.avif" alt="CEX.IO" class="h-8 mr-3" />
                     </div>
                 </div>
@@ -380,7 +380,7 @@
                 <div class="flex flex-col md:flex-row gap-8 justify-center">
                     <!-- Card 1 -->
                     <div
-                        class="group bg-white bg-opacity-5 border border-gray-700 rounded-xl p-8 flex-1 min-w-[260px] max-w-sm mx-auto flex flex-col items-start transition-shadow hover:shadow-2xl hover:shadow-cyan-400/30">
+                        class="group  bg-opacity-5 border border-gray-700 rounded-xl p-8 flex-1 min-w-[260px] max-w-sm mx-auto flex flex-col items-start transition-shadow hover:shadow-2xl hover:shadow-cyan-400/30">
                         <div class="w-15 h-15 bg-cyan-500 overflow-hidden rounded-md mb-4">
                             <img src="/images/verified-airdrops.avif" alt="Verified Airdrops"
                                 class="w-full h-full p-1 object-cover" />
@@ -396,7 +396,7 @@
 
                     <!-- Card 2 -->
                     <div
-                        class="group bg-white bg-opacity-5 border border-gray-700 rounded-xl p-8 flex-1 min-w-[260px] max-w-sm mx-auto flex flex-col items-start transition-shadow hover:shadow-2xl hover:shadow-cyan-400/30">
+                        class="group  bg-opacity-5 border border-gray-700 rounded-xl p-8 flex-1 min-w-[260px] max-w-sm mx-auto flex flex-col items-start transition-shadow hover:shadow-2xl hover:shadow-cyan-400/30">
                         <div class="w-15 h-15 bg-cyan-500 overflow-hidden rounded-md mb-4">
                             <img src="/images/airdropalert-app-icon-1.avif" alt="App Icon"
                                 class="w-full h-full object-cover p-1" />
@@ -412,7 +412,7 @@
 
                     <!-- Card 3 -->
                     <div
-                        class="group bg-white bg-opacity-5 border border-gray-700 rounded-xl p-8 flex-1 min-w-[260px] max-w-sm mx-auto flex flex-col items-start transition-shadow hover:shadow-2xl hover:shadow-cyan-400/30">
+                        class="group  bg-opacity-5 border border-gray-700 rounded-xl p-8 flex-1 min-w-[260px] max-w-sm mx-auto flex flex-col items-start transition-shadow hover:shadow-2xl hover:shadow-cyan-400/30">
                         <div class="w-15 h-15 bg-cyan-500 overflow-hidden rounded-md mb-4">
                             <img src="/images/library-airdrop-icon-1.avif" alt="Library Icon"
                                 class="w-full h-full object-cover p-1" />

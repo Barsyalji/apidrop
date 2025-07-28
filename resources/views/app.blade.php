@@ -17,7 +17,9 @@
     @inertiaHead
 </head>
 
-<body class="font-sans antialiased bg-gradient-to-tr from-[#0b101b] to-[#23343d]" class="test">
+<body class="bg-gradient-to-tr from-[#191e29] via-[#132046] to-[#4a606f]
+             bg-[url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2216%22 height=%2216%22><circle cx=%228%22 cy=%228%22 r=%222%22 fill=%22%2301c38d%22/></svg>')]
+             bg-repeat text-white">
     @inertia
 </body>
 
